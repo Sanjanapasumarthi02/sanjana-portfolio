@@ -228,7 +228,7 @@ export const PORTFOLIO_DATA = {
         "Secure API key handling and hardened client-server communication."
       ],
       techStack: ["TypeScript", "Node.js", "Gemini API", "Vercel Serverless Functions", "Cyber Intelligence"],
-      liveUrl: "https://aegisai-phishing-analyzer.vercel.app", // Placeholder ready for production
+      liveUrl: "https://ai-phishing-and-threat-analyzer.vercel.app",
       githubUrl: "https://github.com/Sanjanapasumarthi02/AI-Phishing-and-Threat-Analyzer",
       metrics: [
         { label: "Threat Engine", value: "Gemini 1.5 Flash" },
@@ -251,8 +251,8 @@ export const PORTFOLIO_DATA = {
         "Interactive bar and pie chart visualizations for eligibility distributions and sector trends."
       ],
       techStack: ["Python", "Machine Learning", "Scikit-learn", "Streamlit", "Pandas", "Git", "GitHub"],
-      liveUrl: "https://gov-scheme-navigator.streamlit.app", // Placeholder ready for production
-      githubUrl: "https://github.com/Sanjanapasumarthi02/ai-government-scheme-navigator",
+      liveUrl: "https://ai-based-government-scheme-navigator-kzvrbjpwnuranqpgqjvpvu.streamlit.app/",
+      githubUrl: "https://github.com/Sanjanapasumarthi02/AI-Based-Government-Scheme-Navigator",
       metrics: [
         { label: "Ranking Model", value: "Cosine Similarity" },
         { label: "Coverage", value: "AP & Central Schemes" },

@@ -279,7 +279,7 @@ export const Projects: React.FC = () => {
             {/* Action Buttons */}
             <div className="flex flex-wrap items-center gap-3">
               <a
-                href="https://aegisai-phishing-analyzer.vercel.app"
+                href="https://ai-phishing-and-threat-analyzer.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white text-xs sm:text-sm font-medium transition-all shadow-[0_0_15px_rgba(168,85,247,0.3)]"
@@ -479,16 +479,16 @@ export const Projects: React.FC = () => {
             {/* Action Buttons */}
             <div className="flex flex-wrap items-center gap-3">
               <a
-                href="https://gov-scheme-navigator.streamlit.app"
+                href="https://github.com/Sanjanapasumarthi02/AI-Based-Government-Scheme-Navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white text-xs sm:text-sm font-medium transition-all shadow-[0_0_15px_rgba(6,182,212,0.3)]"
               >
-                <span>Live Demo</span>
+                <span>Live Demo (GitHub)</span>
                 <ExternalLink className="w-3.5 h-3.5" />
               </a>
               <a
-                href="https://github.com/Sanjanapasumarthi02/ai-government-scheme-navigator"
+                href="https://github.com/Sanjanapasumarthi02/AI-Based-Government-Scheme-Navigator"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-slate-200 text-xs sm:text-sm font-medium border border-white/10 transition-all"
