@@ -340,8 +340,8 @@ export const PORTFOLIO_DATA = {
       platform: "GitHub",
       role: "Source Code & Collaboration",
       description: "Managing project source codes, version control branches, documentation, serverless architectures, and open developer repositories.",
-      url: "https://github.com/Sanjanapasumarthi02",
-      urlPlaceholder: "https://github.com/Sanjanapasumarthi02",
+      url: "https://www.linkedin.com/in/sanjana-pasumarthy-01a787411/",
+      urlPlaceholder: "https://www.linkedin.com/in/sanjana-pasumarthy-01a787411/",
       color: "from-purple-500 to-indigo-600",
       iconType: "github"
     }
