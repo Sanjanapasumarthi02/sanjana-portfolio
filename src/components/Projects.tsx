@@ -479,12 +479,12 @@ export const Projects: React.FC = () => {
             {/* Action Buttons */}
             <div className="flex flex-wrap items-center gap-3">
               <a
-                href="https://github.com/Sanjanapasumarthi02/AI-Based-Government-Scheme-Navigator"
+                href="https://ai-based-government-scheme-navigator-kzvrbjpwnuranqpgqjvpvu.streamlit.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white text-xs sm:text-sm font-medium transition-all shadow-[0_0_15px_rgba(6,182,212,0.3)]"
               >
-                <span>Live Demo (GitHub)</span>
+                <span>Live Demo</span>
                 <ExternalLink className="w-3.5 h-3.5" />
               </a>
               <a
